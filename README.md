@@ -5,7 +5,7 @@
 - 🔭 I’m building web apps using **MERN, JWT & Razorpay**
 - 🌱 I’m exploring advanced **React**, **Next.js**, and **TypeScript**
 - 🧑‍💻 Previously interned at **The Product Management Company** (Owltics) and **MAIT TNM Fest**
-- 🔗 All of my projects are available at [Portfolio](https://rachitnarula-portfolio.netlify.app)
+- 🔗 All of my projects are available at [Portfolio](https://portfolio-rachits-projects.vercel.app)
 - 📫 Reach me at **rachitnarulawork@gmail.com**
 
 
