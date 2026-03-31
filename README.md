@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rachit Narula</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 💼 I’m currently working as a **Full Stack Developer at Insybit**, building scalable full-stack products
-- 🔭 I’m building web apps using **MERN, JWT & Razorpay**
-- 🌱 I’m exploring advanced **React**, **Next.js**, and **TypeScript**
-- 🧑‍💻 Previously interned at **The Product Management Company** (Owltics) and **MAIT TNM Fest**
-- 🔗 All of my projects are available at [Portfolio](https://portfolio-rachits-projects.vercel.app)
-- 📫 Reach me at **rachitnarulawork@gmail.com**
+---
+
+* 💼 Currently working as a **Specialist Programmer Intern at Infosys**, focusing on Agentic AI and LLM-based applications
+* 🤖 Building **AI-driven systems, multi-agent workflows, and real-world LLM solutions**
+* 💼 Previously worked as a **Full Stack Developer at Insybit**, building AI-powered products and scalable web applications
+* 🚀 Experienced in **JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB**
+* ☁️ Hands-on with **GCP, Firebase, and deploying scalable backend systems**
+* 🧠 Strong interest in **AI integrations, prompt engineering, and system design**
+* 🔗 Portfolio: **[https://portfolio-rachits-projects.vercel.app](https://portfolio-rachits-projects.vercel.app)**
+* 📫 Email: **[rachitnarulawork@gmail.com](mailto:rachitnarulawork@gmail.com)**
+
 
 
 ---
